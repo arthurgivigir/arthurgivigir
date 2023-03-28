@@ -1,10 +1,10 @@
 # Hello there 👋
 
 # About Me
-- 🤓 My name is Arthur and I've been working in development since 2012.
+- 🤓 My name is Arthur and I've been working in development since 2010.
 - 🍎 My main skill is iOS development using Swift.
 - 🤖 However, I have also worked as an Android developer.
-- 🎓 I completed my undergraduate degree in 2012 and my postgraduate degree in 2016, with a focus on Mobile Development.
+- 🎓 I completed my undergraduate degree in 2013 and my postgraduate degree in 2016, with a focus on Mobile Development.
 - 🎒 Currently, I'm doing a lot of development with SwiftUI and Swift using Combine;
 - 🏫 As well as studying some architectures such as VIP and improving my skills in MVVM.
 - 😃 I am passionate about games, technology, movies, TV shows, and hero stuff (comics).
